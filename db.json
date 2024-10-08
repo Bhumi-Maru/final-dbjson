@@ -1,22 +1,98 @@
 {
-  "students": [
+  "men": [
     {
-      "id": "ef48",
-      "name": "",
-      "number": "",
-      "course": "full stack"
+      "id": 1,
+      "item_name": "T-shirt",
+      "image": "/images/1.webp",
+      "size": "M",
+      "color": "Black",
+      "price": 20,
+      "material": "Cotton",
+      "brand": "Nike"
     },
     {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
-      "course": "backend"
+      "id": 2,
+      "item_name": "Watch",
+      "image": "/images/2.jpeg",
+      "size": "L",
+      "color": "Blue",
+      "price": 45,
+      "material": "Denim",
+      "brand": "Levi's"
     },
     {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
+      "id": 3,
+      "item_name": "Jacket",
+      "image": "/images/3.jpeg",
+      "size": "XL",
+      "color": "Grey",
+      "price": 85,
+      "material": "Leather",
+      "brand": "Zara"
+    },
+    {
+      "id": 4,
+      "item_name": "Blazer",
+      "image": "/images/4.jpg",
+      "size": "M",
+      "color": "Navy",
+      "price": 30,
+      "material": "Cotton Blend",
+      "brand": "Adidas"
+    },
+    {
+      "id": 5,
+      "item_name": "Sneakers",
+      "image": "/images/5.jpg",
+      "size": 10,
+      "color": "White",
+      "price": 65,
+      "material": "Synthetic",
+      "brand": "Puma"
+    }
+  ],
+  "women": [
+    {
+      "id": 1,
+      "item_name": "Dress",
+      "image": "https://www.alamodelabel.in/cdn/shop/products/WhatsAppImage2023-02-24at16.21.27_700x.jpg?v=1717498047",
+      "size": "S",
+      "color": "Red",
+      "price": 55,
+      "material": "Silk",
+      "brand": "Gucci"
+    },
+    {
+      "id": 2,
+      "item_name": "Handbag",
+      "image": "https://treasocloset.com/cdn/shop/files/rn-image_picker_lib_temp_ab7747b6-9d76-42d5-bf72-fcc33ba381c6_720x.jpg?v=1710764785",
+      "size": "M",
+      "color": "Black",
+      "price": 120,
+      "material": "Leather",
+      "brand": "Prada"
+    }
+  ],
+  "kid": [
+    {
+      "id": 1,
+      "item_name": "Kid's T-shirt",
+      "image": "/images/kid-tshirt.jpg",
+      "size": "S",
+      "color": "Green",
+      "price": 15,
+      "material": "Cotton",
+      "brand": "H&M"
+    },
+    {
+      "id": 2,
+      "item_name": "Kid's Sneakers",
+      "image": "/images/kid-sneakers.jpg",
+      "size": 4,
+      "color": "Blue",
+      "price": 25,
+      "material": "Canvas",
+      "brand": "Converse"
     }
   ]
 }
